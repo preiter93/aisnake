@@ -20,11 +20,13 @@ Additionally, the Snake is given a *hunger* state, so it must eat within
 *max_hunger* steps or it dies. 
 
 ![Alt text](screenshot.jpg?raw=true "States")
+
 Here: Vision-Radius = 2
 
 ## Example Games
 
 ![Alt text](anim.gif?raw=true "Play")
+
 *Hunger death*
 
 ## Todo
